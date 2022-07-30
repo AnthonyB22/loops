@@ -1,0 +1,12 @@
+integer userNum
+integer curPower
+
+curPower = 2
+userNum = Get next input
+
+if userNum ==1
+   Put curPower to output
+Put "\n" to output
+Put "curPower = curPower * 2" to output
+Put "userNum = Get next input" to output
+Put "Done." to output

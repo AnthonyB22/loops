@@ -1,0 +1,17 @@
+integer maxSoFar
+integer currValue
+integer numValues 
+integer i
+
+maxSoFar = 0
+numValues = Get next input
+//Loop variable initialization i = 0
+//Loop expression i < numValues
+currValue = Get next input
+//First iteration (i == 0)
+maxSoFar = currValue
+if (currValue > maxSoFar)
+   maxSoFar = currValue
+//Loop variable update i = i + 1
+Put "Max:" to output
+Put maxSoFar to output

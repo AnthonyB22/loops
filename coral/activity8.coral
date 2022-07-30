@@ -1,0 +1,13 @@
+integer usrNumA
+integer usrNumB
+integer lcmResult
+
+usrNumA = Get next input
+usrNumB = Get next input
+lcmResult = (usrNumA/usrNumB)
+Put "Least common multiple of" to output
+Put usrNumA to output
+Put "and" to output
+Put usrNumB to output
+Put "is" to output
+Put lcmResult to output 
